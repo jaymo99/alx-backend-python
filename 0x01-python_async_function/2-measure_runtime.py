@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""1-concurrent_coroutines module"""
+"""2-measure_runtime module"""
 
 import asyncio
 from time import perf_counter
